@@ -7,6 +7,7 @@
 | Date       | Topic                          |
 | ---------- | ------------------------------ |
 | 2025-10-09 | Forward and Inverse Kinematics |
+| 2025-10-16 | Lagrange Dynamics              |
 | ...        | ...                            |
 
 
