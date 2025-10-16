@@ -4,7 +4,7 @@
 
 
 
-| Date       | Topic                          | Notics |
+| Date       | Topic                          | Notices |
 | ---------- | ------------------------------ |-------|
 | 2025-10-09 | Forward and Inverse Kinematics |       |
 | 2025-10-16 | Lagrange Dynamics              | The 3R robot lies in a vertical plane, so you must account for gravity in your implementation.      |
