@@ -11,4 +11,5 @@
 | 2025-10-23 | Project: System identification        |                                                                                                |
 | 2025-10-30 | Trajectory tracking control           |                                                                                                |
 | 2025-11-06 | 3R planar robot trajectory generation |                                                                                                |
+| 2025-11-13 | Manipulatro trajectory generation     |                                                                                                |
 | ...        | ...                                   |                                                                                                |
